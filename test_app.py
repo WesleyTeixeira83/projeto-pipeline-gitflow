@@ -1,6 +1,6 @@
 import unittest
 
-class testapp(unittest.testcase):
+class testapp(unittest.TestCase):
     def test_placeholder(self):
         self.assertrue(True)
 
