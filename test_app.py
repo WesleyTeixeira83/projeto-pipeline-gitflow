@@ -2,7 +2,7 @@ import unittest
 
 class testapp(unittest.TestCase):
     def test_placeholder(self):
-        self.asserTrue(True)
+        self.assertTrue(True)
 
     if __name__ =="__main__":
         unittest.main()
